@@ -1,0 +1,1 @@
+- App for communication store`s employee, retail manager and office employee
